@@ -1,5 +1,7 @@
 # Address-to-Cordinates-Script
 Takes in a txt file of addresses and a google geocoder API key. Outputs a txt file with geographic cordinates.
+
+
 To use this script.
 pygeocoder must be installed with pip install pygeocoder
 You need an api key from google cloud, either a general one or a geocoder one.
